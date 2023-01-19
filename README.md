@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @miyazakh
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyazakh&count_private=true&show_icons&theme=tokyonight)=true" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miyazakh&count_private=true&show_icons&theme=tokyonight)=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyazakh&theme=tokyonight)" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miyazakh&theme=tokyonight)" />
 </a>
 
 <!--
